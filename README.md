@@ -1,13 +1,13 @@
 # wechatDataBackup
 PC微信聊天记录数据导出工具
 
-[![GitHub stars](https://img.shields.io/github/stars/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup/stargazers)
-[![GitHub all releases](https://img.shields.io/github/downloads/git-jiadong/wechatDataBackup/total)](https://github.com/git-jiadong/wechatDataBackup/releases)
-[![GitHub release](https://img.shields.io/github/v/release/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup/commits/main)
-[![GitHub top language](https://img.shields.io/github/languages/top/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup)
-[![GitHub repo size](https://img.shields.io/github/repo-size/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup)
-[![GitHub license](https://img.shields.io/github/license/git-jiadong/wechatDataBackup)](https://github.com/git-jiadong/wechatDataBackup/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli/stargazers)
+[![GitHub all releases](https://img.shields.io/github/downloads/XF-FS/wechatDataBackup_cli/total)](https://github.com/XF-FS/wechatDataBackup_cli/releases)
+[![GitHub release](https://img.shields.io/github/v/release/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli/commits/main)
+[![GitHub top language](https://img.shields.io/github/languages/top/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli)
+[![GitHub repo size](https://img.shields.io/github/repo-size/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli)
+[![GitHub license](https://img.shields.io/github/license/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli/blob/main/LICENSE)
 
 * 基于wails开发 + React前端，实现PC端微信聊天记录一键导出功能
 * 支持命令行和图形界面两种操作模式

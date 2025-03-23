@@ -95,7 +95,7 @@ PC微信聊天记录数据导出工具
 - [ ] AI本地模型应用
 - [ ] 导出数据本地加密
 - ...
-如果遇到什么问题，或者有更好的建议与优化点欢迎给作者提 [ISSUE](https://github.com/git-jiadong/wechatDataBackup/issues)
+如果遇到什么问题，或者有更好的建议与优化点欢迎给作者提 [ISSUE](https://github.com/XF-FS/wechatDataBackup_cli/issues)
 
 
 ## Star History

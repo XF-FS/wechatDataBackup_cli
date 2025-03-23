@@ -90,17 +90,13 @@ PC微信聊天记录数据导出工具
 - [x] 支持自动定位到最后浏览位置
 - [x] 支持书签功能
 - [x] 支持单聊会话对话人位置调换功能
-- [ ] 实现表情预先下载（实现完全离线查看）
-- [ ] 聊天报告
-- [ ] AI本地模型应用
-- [ ] 导出数据本地加密
-- ...
+
 如果遇到什么问题，或者有更好的建议与优化点欢迎给作者提 [ISSUE](https://github.com/XF-FS/wechatDataBackup_cli/issues)
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=git-jiadong/wechatDataBackup&type=Date)](https://star-history.com/?utm_source=bestxtools.com#git-jiadong/wechatDataBackup&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=XF-FS/wechatDataBackup_cli&type=Date)](https://star-history.com/?utm_source=bestxtools.com#XF-FS/wechatDataBackup_cli&Date)
 
 ## 免责声明
 **⚠️ 本项目仅供学习、研究使用，严禁商业使用**<br/>
@@ -109,14 +105,3 @@ PC微信聊天记录数据导出工具
 **⚠️ 使用本项目初衷是作者研究微信数据库的运行使用，您使用本软件导致的后果，包含但不限于数据损坏，记录丢失等问题，作者不承担相关责任。**<br/>
 **⚠️ 因软件特殊性质，请在使用时获得微信账号所有人授权，你当确保不侵犯他人个人隐私权，后果自行承担**<br/>
 
-## 前端代码
-由于前端代码不成熟，前端界面代码暂时不公开。
-
-## 参考/引用
-- 微信数据库解密和数据库的使用 [PyWxDump](https://github.com/xaoyaoo/PyWxDump/tree/master)
-- silk语音消息解码 [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
-- PCM转MP3 [lame](https://github.com/viert/lame.git)
-- Dat图片解码 [wechatDatDecode](https://github.com/liuggchen/wechatDatDecode)
-
-## 交流/讨论
-![](./res/wechatQR.png)

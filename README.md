@@ -19,7 +19,7 @@ PC微信聊天记录数据导出工具
 
 效果图如下：
 
-![PixPin_2025-03-23_12-25-40](https://github.com/user-attachments/assets/8b51b1be-1b52-4dc0-b934-d6857e491ba9)
+![PixPin_2025-03-23_12-29-28](https://github.com/user-attachments/assets/a97c0bb6-0eab-4eff-9d22-30875e8831d8)
 
 ![PixPin_2025-03-23_12-26-43](https://github.com/user-attachments/assets/bdc65206-7f26-4ffe-ad76-f985cf691472)
 

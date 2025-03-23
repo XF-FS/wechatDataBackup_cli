@@ -19,8 +19,13 @@ PC微信聊天记录数据导出工具
 
 效果图如下：
 
-![](./res/result.png)
-![](./res/result2.png)
+![PixPin_2025-03-23_12-25-40](https://github.com/user-attachments/assets/8b51b1be-1b52-4dc0-b934-d6857e491ba9)
+
+![PixPin_2025-03-23_12-26-43](https://github.com/user-attachments/assets/bdc65206-7f26-4ffe-ad76-f985cf691472)
+
+![PixPin_2025-03-23_12-27-52](https://github.com/user-attachments/assets/318863b9-ad8f-48df-bb1a-1202651f2d67)
+
+
 
 ## 使用方法
 
@@ -90,6 +95,7 @@ PC微信聊天记录数据导出工具
 - [x] 支持自动定位到最后浏览位置
 - [x] 支持书签功能
 - [x] 支持单聊会话对话人位置调换功能
+- [ ] 显示联系人微信号，备注
 
 如果遇到什么问题，或者有更好的建议与优化点欢迎给作者提 [ISSUE](https://github.com/XF-FS/wechatDataBackup_cli/issues)
 

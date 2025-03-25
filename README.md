@@ -9,7 +9,7 @@ PC微信聊天记录数据导出工具
 [![GitHub repo size](https://img.shields.io/github/repo-size/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli)
 [![GitHub license](https://img.shields.io/github/license/XF-FS/wechatDataBackup_cli)](https://github.com/XF-FS/wechatDataBackup_cli/blob/main/LICENSE)
 
-* 这个工具是二开后用于授权的攻防项目，因为可获取的东西太多了，感觉直接发布有点风险，需要使用可以在Issues中留下邮箱，我会给你发邮件审核后方可使用
+* 这个工具是二开后用于授权的攻防项目，因为可获取的东西太多了，感觉直接发布有点风险，需要使用可以在Issues中留下邮箱，我会给你发邮件通过审核后方可使用
 * 基于wails开发 + React前端，实现PC端微信聊天记录一键导出功能
 * 支持命令行和图形界面两种操作模式
 * 支持选择性备份（基础/完整）
